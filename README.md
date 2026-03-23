@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @moskito2803
 - 👀 I’m interested in sports, games and pretty much everything
 - 🌱 I’m currently learning github....
-- 💞️ I’m looking to collaborate on CarRadioApp
 - 📫 How to reach me....my message
 
 <!---
